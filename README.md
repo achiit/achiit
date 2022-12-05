@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available [*HERE*](https://github.com/achiit)
 
-- 💬 Ask me about *DSA, Java ,HTML ,JS ,CSS ,React.Js*
+- 💬 Ask me about *DSA, Java ,HTML ,JS ,CSS ,React.Js,Dart,Flutter,Kotlin*
 
 - 📫 You can reach me by [*MY-GMAIL*](mailto:achihsingh@gmail.com)
 
